@@ -6,7 +6,7 @@
 ---
 - ## 📊 **Visuals**
 ### Example Map Visualisation:
-![Map Example](C:\Users\kwasi\OneDrive\Pictures\Screenshots)
+![Map Example]("SVGMap.png")
 
 ### Example Interactive Plot:
 
