@@ -6,7 +6,7 @@
 ---
 - ## 📊 **Visuals**
 ### Example Map Visualisation:
-![Map Example]("SVGMap.png")
+![SVGMap](https://github.com/user-attachments/assets/094d9b44-972d-49fa-beac-41ec2a1ea03a)
 
 ### Example Interactive Plot:
 
