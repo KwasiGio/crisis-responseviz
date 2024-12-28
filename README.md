@@ -10,6 +10,9 @@
 
 ### Example Interactive Plot:
 
+![InteractivePlot](https://github.com/user-attachments/assets/ac94cc4e-4918-4e4f-a0ef-f8b3a28c3655)
+
+
 
 ## 📖 **Overview**
 
