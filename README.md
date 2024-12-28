@@ -4,6 +4,11 @@
 
 
 ---
+- ## 📊 **Visuals**
+### Example Map Visualisation:
+![Map Example](C:\Users\kwasi\OneDrive\Pictures\Screenshots)
+
+### Example Interactive Plot:
 
 
 ## 📖 **Overview**
@@ -30,11 +35,7 @@ This repository showcases interactive visuals, powered by Python libaries such a
 - **Graphics**: SVG for scalable map rendering
 - **Python Visualisation**: Altair, Seaborn, Plotly
 
-- ## 📊 **Visuals**
-### Example Map Visualisation:
 
-
-### Example Interactive Plot:
 
 
 
